@@ -1,0 +1,63 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPOkY7ze+VXBtSMs7K+p0M1",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Asik1079/sem3-lab7-github-demo-/blob/main/sem3-lab7-github-demo.ipynb%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "GdQpqzZf0QYu",
+        "outputId": "8b2da364-3c1b-4055-9e4e-2cca9375d6c0"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Hello, Your Name! This is version 2 of my notebook.\n"
+          ]
+        }
+      ],
+      "source": [
+        "name  = \"Your Name\"\n",
+        "print  (f\"Hello, {name}! This is version 2 of my notebook.\")\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "TIDShlfi0k7j"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
